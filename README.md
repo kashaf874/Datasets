@@ -2,13 +2,13 @@
 ## Data Scientist Really Needs Data For Performing Analysis , Predictions and Many more...
 ### So here is the Little Contribution For Providing Data To All Data Scientists , Data Analysts
 
-different datasets that are publicly available or Private
+_Different datasets that are publicly available or Private_
 
 _________________________________________________________________________________________
 
 ## Following are the discription of each datasets 
 
-# 1
+# 1.
                   
    ### BLI_26022022121604185 (Data set Name) 
    #### you can identify data type by Column Names
