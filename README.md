@@ -18,6 +18,8 @@ LOCATION |	Country	|INDICATOR	|Indicator|	MEASURE|	Measure|	INEQUALITY	|Inequali
 	
 ![image](https://user-images.githubusercontent.com/54352225/158782503-b0859638-bc46-4dd6-97f2-0ace8b858d45.png)
 
+*BLI_26022022123026237 same as Above but values difference*
+
 
 
 _Happy Data Scientists_
