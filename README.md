@@ -15,8 +15,7 @@ ________________________________________________________________________________
                    
 	LOCATION |	Country	|INDICATOR	|Indicator|	MEASURE|	Measure|	INEQUALITY	|Inequality	|Unit Code|	Unit	|PowerCode Code	|PowerCode	|Reference Period Code|	Reference Period|	Value	|Flag Codes|	Flags|
 	
-### In Sheet 
-![image](https://user-images.githubusercontent.com/54352225/158782503-b0859638-bc46-4dd6-97f2-0ace8b858d45.png)
+# In Sheet ![image](https://user-images.githubusercontent.com/54352225/158782503-b0859638-bc46-4dd6-97f2-0ace8b858d45.png)
 
 ## 2.    *BLI_26022022123026237 same as Above but values difference*
 
