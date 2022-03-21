@@ -23,8 +23,8 @@ LOCATION |	Country	|INDICATOR	|Indicator|	MEASURE|	Measure|	INEQUALITY	|Inequali
 # 3.  CLS Registration Form (1-72) 
  #### students interest in literary activity
  
- ID	Start time	Completion time	Email	Name	Your Name	Father Name	Email2	Write few lines about Yourself (Describe Yourself).	Expectations From CLS?	Any Past Experience with Literary activities / achievements?	Registration No.	Gender	WhatsApp No.	Select Your Interest	Other Skills , if any Please Mention Below!!	Why do you want to join CLS?
-3	11/2/21 23:33:25	11/2/21 23:34:55	anonymous		Haider	Anayat Ullah Chaudhary	haideranayat111@gmail.com 	..	Many.	Yes.	SP19-BBA-009 	Male	03216900111	YLP / MUN;	No	
+	 ID	Start time	Completion time	Email	Name	Your Name	Father Name	Email2	Write few lines about Yourself (Describe Yourself).	Expectations From CLS?	Any Past Experience with Literary activities / achievements?	Registration No.	Gender	WhatsApp No.	Select Your Interest	Other Skills , if any Please Mention Below!!	Why do you want to join CLS?
+	3	11/2/21 23:33:25	11/2/21 23:34:55	anonymous		Haider	Anayat Ullah Chaudhary	haideranayat111@gmail.com 	..	Many.	Yes.	SP19-BBA-009 	Male	03216900111	YLP / MUN;	No	
 	
 ![image](https://user-images.githubusercontent.com/54352225/159122085-9e2b6d51-db2f-43a3-83bf-6c5d42b27764.png)
 
