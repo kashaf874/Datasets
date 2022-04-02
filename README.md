@@ -76,4 +76,4 @@ ________________________________________________________________________________
 
 
 
-_Happy Data Scientists Journy_
+_Happy Data Scientists Journey_
